@@ -1,2 +1,5 @@
 # Hw2
 Homework From Course Portal
+
+This is the analysis part of the homework. 
+Looking at the results from the code being run, the algorithm that performed the best overall was the insertion sorting. It performed the best when the array type was increasing and random numbers because it was able to adapt to order of the numbers. It had the least amount of comparisons in compared to bubble sorting and seledction sorting. However, it did struggle when the input type was reverse. The second best one was bubble sorting aS it had fewer comparisons then selection sorting but it is very inefficent as it heavily depends on what type of input is inputted. The same can be said for insertion but at least insertion better and more stable results. THe worst one out of them all is selection sorting since the only time where it did good was when the input type was reverse. Every other time it performed the worst in terms of comparison since it had the most amount almost everytime. It did have the least amount of swaps but because comparisons are more important in this case, it did the worst. 
